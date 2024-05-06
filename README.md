@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-
-These are the default questions Github asks i decided to fill them 
-- 🔭 I’m currently working on Wait and see
-- 🌱 I’m currently learning too much stuff
-- 🤔 I’m looking for help with MDM CYBER SECURITY CUSTOM ROMS AND MORE
-- 💬 Ask me about anything I will be happy to help! :) 
-- 📫 How to reach me: Look at the bio not too hard to figure out
-- 😄 Pronouns: I don't believe in this garbage.... sorry... well not really...
-- ⚡ Riddle: Can you guess my full name all of the hints are here!
+working on some server,app, and learning operating systems and RE
 #
 #### want to support my work :)
 #### Buy me a book here:
